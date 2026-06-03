@@ -27,4 +27,4 @@ export const userRouter = router({
 
 //question: can we get the id from ctx instead of input?
 //or will there be no ctx yet because the user is not created yet?
-//answer: no, ctx is not available yet because the user is not created yet
+//answer: no, ctx is not available yet because the user is not created yet
