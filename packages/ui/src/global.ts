@@ -6,4 +6,4 @@ declare module 'tamagui' {
   interface TamaguiCustomConfig extends Conf {}
 }
 
-export default config
+export default config
